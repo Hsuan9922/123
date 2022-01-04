@@ -12,4 +12,5 @@ int main() {
     while (scanf("%d", &input) ){
         printf("%d\n", input);
     }
+        printf("請按任意鍵繼續 . . .");
 }
